@@ -1,3 +1,7 @@
-function teste(){
-    console.log('ok');
+class App{
+
+    test(){
+        console.log('ok');
+    }
+
 }
