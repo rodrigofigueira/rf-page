@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/rodrigofigueira/rf-page/issues"
   },
-  "homepage": "https://github.com/rodrigofigueira/rf-page#readme"
+  "homepage": "https://github.com/rodrigofigueira/rf-page#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
